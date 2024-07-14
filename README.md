@@ -9,4 +9,4 @@
 </div>
 
 <h2>Contacto</h2>
-<a href="https://www.linkedin.com/in/marcooravila/"  target="blank"><img  src="https://skillicons.dev/icons?i=linkedin"></a>  <a  href="mailto:marcooravila@gmail.com"  target="blank"><img  src="https://skillicons.dev/icons?i=gmail"></a>
+<a href="https://www.linkedin.com/in/marcooravila/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin"></a>  <a href="mailto:marcooravila@gmail.com" target="blank"> <img  src="https://skillicons.dev/icons?i=gmail"></a>
