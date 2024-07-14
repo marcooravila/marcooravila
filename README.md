@@ -12,5 +12,5 @@
 <a  href="https://www.linkedin.com/in/marcooravila/"  target="blank"><img  src="https://skillicons.dev/icons?i=linkedin"></a>  <a  href="mailto:marcooravila@gmail.com"  target="blank"><img  src="https://skillicons.dev/icons?i=gmail"></a>
 
 <div>
-<img src="[https://skillicons.dev/icons?i=react,js,html,css,nodejs,py,github,vercel,bootstrap,wordpress,ps,ai,ae,figma,perline=14](https://www.swissquote.com/_next/image?url=%2Fapi%2Finternal%2Fmedia%2Fget-media%3Ffilename%3D2024-01%2FBitcoin.png&w=1728&q=90)">
+<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,py,github,vercel,bootstrap,wordpress,ps,ai,ae,figma,perline=14](https://www.swissquote.com/_next/image?url=%2Fapi%2Finternal%2Fmedia%2Fget-media%3Ffilename%3D2024-01%2FBitcoin.png&w=1728&q=90">
 </div>
