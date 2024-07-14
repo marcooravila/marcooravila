@@ -12,5 +12,5 @@
 <a  href="https://www.linkedin.com/in/marcooravila/"  target="blank"><img  src="https://skillicons.dev/icons?i=linkedin"></a>  <a  href="mailto:marcooravila@gmail.com"  target="blank"><img  src="https://skillicons.dev/icons?i=gmail"></a>
 
 <div>
-<img src="https://www.swissquote.com/_next/image?url=%2Fapi%2Finternal%2Fmedia%2Fget-media%3Ffilename%3D2024-01%2FBitcoin.png&w=1728&q=90" align="center">
+<img src="https://aqiveo.com/wp-content/uploads/2021/05/Territorio-Bitcoin_Logo.png" align="center">
 </div>
