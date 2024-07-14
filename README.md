@@ -7,3 +7,6 @@
 <div>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,py,github,vercel,bootstrap,wordpress,ps,ai,ae,figma,perline=14">
 </div>
+
+<h2>Contacto</h2>
+<a  href="https://www.linkedin.com/in/marcooravila/"  target="blank"><img  src="https://skillicons.dev/icons?i=linkedin"></a>  <a  href="mailto:marcooravila@gmail.com"  target="blank"><img  src="https://skillicons.dev/icons?i=gmail"></a>
