@@ -10,7 +10,3 @@
 
 <h2>Contacto</h2>
 <a  href="https://www.linkedin.com/in/marcooravila/"  target="blank"><img  src="https://skillicons.dev/icons?i=linkedin"></a>  <a  href="mailto:marcooravila@gmail.com"  target="blank"><img  src="https://skillicons.dev/icons?i=gmail"></a>
-
-<div>
-<img src="https://aqiveo.com/wp-content/uploads/2021/05/Territorio-Bitcoin_Logo.png" alt="" align="center">
-</div>
