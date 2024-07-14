@@ -5,5 +5,5 @@
 <h2>Skills</h2>
 
 <div>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,py,github,vercel,bootstrap,wordpress,ps,ai,ae,figma,astro&perline=14">
+<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,py,github,vercel,bootstrap,wordpress,ps,ai,ae,figma,astro,perline=14">
 </div>
