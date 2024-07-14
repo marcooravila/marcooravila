@@ -5,7 +5,7 @@
 <h2>Skills</h2>
 
 <div>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,py,github,git,vercel,bootstrap,wordpress,ps,ai,ae,figma,perline=14">
+<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,py,github,vercel,bootstrap,wordpress,ps,ai,ae,figma,perline=14">
 </div>
 
 <h2>Contacto</h2>
