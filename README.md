@@ -1,6 +1,6 @@
-## ¡Hola! Soy Marco, Desarrollador FRONT-END
+## ¡Hola! Soy Marco, Desarrollador JR. FRONT-END.
 
-<p>Licenciado en Gestión y Desarrollo Empresarial. Trader de Criptomonedas. F.E. DEV en Proceso. Me gusta hablar de ideas de negocios, economía, marketing y tecnología.</p>
+<p>Licenciado en Gestión y Desarrollo Empresarial. Trader de Criptomonedas. Programador Frontend JR. Me gusta hablar de ideas de negocios, economía, marketing y tecnología.</p>
 
 <h2>Skills</h2>
 
