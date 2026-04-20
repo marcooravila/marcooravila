@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Marco, Desarrollador JR. FRONT-END.
 
-<p>Licenciado en Gestión y Desarrollo Empresarial. Trader de Criptomonedas. Programador Frontend JR. Me gusta hablar de ideas de negocios, economía, marketing y tecnología.</p>
+<p>Profesional con enfoque en tecnología y negocios, combinando desarrollo Full Stack con formación en Gestión Empresarial. Experiencia en desarrollo frontend y análisis de mercados financieros, con especial interés en criptomonedas. Orientado a la generación de soluciones digitales y modelos de negocio escalables, integrando tecnología, marketing y análisis económico.</p>
 
 <h2>Skills</h2>
 
