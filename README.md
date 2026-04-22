@@ -7,7 +7,7 @@ Especializado en la construcción de dashboards, automatización de procesos y d
 <h2>Skills</h2>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,py,gcp,sqlserver,pbi,excel,github,claude,ps,ai,perline=14"> 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,js,php,py,gcp,sqlserver,pbi,excel,claude,ps,ai,perline=14"> 
 </div>
 
 <h2>Contacto</h2>
