@@ -11,4 +11,5 @@ Especializado en la construcción de dashboards, automatización de procesos y d
 </div>
 
 <h2>Contacto</h2>
-<a href="https://www.linkedin.com/in/marcooravila/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin"></a>  <a href="mailto:marcooravila@gmail.com" target="blank"> <img  src="https://skillicons.dev/icons?i=gmail"></a>
+<a href="https://www.linkedin.com/in/marcooravila/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)"></a>  <a href="mailto:marcooravila@gmail.com" target="blank"> <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://wa.link/ln30jm" target="blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
