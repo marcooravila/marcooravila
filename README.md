@@ -1,6 +1,8 @@
 ## ¡Hola! Soy Marco.
 
-<p>Profesional con enfoque en tecnología y negocios, combinando desarrollo Full Stack con formación en Gestión Empresarial. Experiencia en desarrollo frontend y análisis de mercados financieros, con especial interés en criptomonedas. Orientado a la generación de soluciones digitales y modelos de negocio escalables, integrando tecnología, marketing y análisis económico.</p>
+<p>Fullstack Developer & Data Analyst enfocado en soluciones tecnológicas impulsadas por datos. Experiencia en desarrollo de aplicaciones y en análisis de datos financieros y operativos, utilizando herramientas como SQL, Python y plataformas de Business Intelligence.
+
+Especializado en la construcción de dashboards, automatización de procesos y desarrollo de modelos analíticos para optimizar la toma de decisiones. Interés en mercados financieros y criptomonedas, con enfoque en crear productos y sistemas escalables que integren tecnología, datos y negocio.</p>
 
 <h2>Skills</h2>
 
