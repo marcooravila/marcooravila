@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Marco.
 
-<p>Fincance and BI Data Analyst enfocado en soluciones tecnológicas impulsadas por datos. Transformo problemas ambiguos en impacto financiero, claridad operativa y Desición estratégica.
+<p>Fincance and BI Data Analyst enfocado en soluciones tecnológicas impulsadas por datos. Transformo problemas ambiguos en impacto financiero, claridad operativa y decisión estratégica.
 Especializado en la construcción de dashboards, automatización de procesos y desarrollo de modelos analíticos para optimizar la toma de decisiones. Interés en mercados financieros y criptomonedas, con enfoque en crear herramientas y sistemas escalables que integren tecnología, datos y negocio.</p>
 
 <h2>Skills</h2>
